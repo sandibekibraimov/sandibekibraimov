@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sandibek!
+- 👋 Hi, I’m Sandibek! Welcome to my github page!
 - 👀 I’m interested in Mobile app development using React and React Native
 - 💞️ Learner, father and soccer fan!
 - 📫 Reach me at sandibek.ibraimov@gmail.com
