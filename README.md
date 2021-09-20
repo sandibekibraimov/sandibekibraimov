@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sandibek!
-- 👀 I’m interested in Frontend development and Mobile app development using React and React Native
-- 🌱 I’m currently learning React Native mobile app development
+- 👀 I’m interested Mobile app development using React and React Native
 - 💞️ Learner, father and soccer fan!
 - 📫 Reach me at sandibek.ibraimov@gmail.com
 
