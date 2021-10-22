@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandibek! Welcome to my github page!
-- 👀 I’m interested in Mobile app development using React and React Native
+- 👀 I’m interested in Frontend web development using React UI Library!
 - 💞️ Learner, father and soccer fan!
 - 📫 Reach me at sandibek.ibraimov@gmail.com
 
